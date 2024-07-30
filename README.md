@@ -1,7 +1,7 @@
 ### Erick Martins Silva 
 
 ## Sobre mim
-Olá Me chamo Erick Martins, sou desenvolvedor backend e conhecimento parcial em backend. Trabalho atualmente como anailista de dados, desenvolvendo relatorios, automações e implementando e melhorando banco de dados.
+Olá Me chamo Erick Martins, sou desenvolvedor fullstack focado principalmente em backend. Trabalho atualmente como anailista de dados, desenvolvendo relatorios, automações e implementando e melhorando banco de dados.
 
 ## Contatos ☎️
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-martins-silva-4a889925b/)
