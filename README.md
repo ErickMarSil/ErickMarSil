@@ -1,7 +1,7 @@
 ### Erick Martins Silva 
 
 ## Sobre mim
-Olá Me chamo Erick Martins, sou desenvolvedor fullstack focado principalmente em backend. Trabalho atualmente como anailista de dados, desenvolvendo relatorios, automações e implementando e melhorando banco de dados.
+Desenolvedor focado em backend e banco de dados, gosto de denvolver partes logicas envolvendo algoritimos com estrutura de dados e manipulação de informações, desenolvi durante 3 anos em VBA/VB e Python, agora devido a faculdade e interesse em desenolvimento de baixo nivel estou focando em Java e C++/ASM86x. Como ferramentas e banco de dados ja usei e uso atualmente Excel, Power BI,  PostgreSQL, MySQL, Oracle, SQLite, postman, linux (kernel ubuntu e kali).
 
 ## Contatos ☎️
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-martins-silva-4a889925b/)
